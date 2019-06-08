@@ -1,4 +1,7 @@
-# Thing Name
+---
+layout: slide
+---
+# Thing Name 2.0
 ##  Slide last update date
 
 <!---
