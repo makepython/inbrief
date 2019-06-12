@@ -56,6 +56,12 @@ This slide can be repeated for every alternative
 
 ---
 
+# Killer feature
+
+A great feature that only this Thing offers compared to the competition
+
+---
+
 # Price and license
 
 
