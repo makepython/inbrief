@@ -1,8 +1,9 @@
 # Thing Name
-##  Slide last update date
+## Slide Author
+### Slide last update date
 
 <!---
-Comment?
+Comment
 -->
 
 ---
@@ -15,67 +16,81 @@ One sentence that explain what it is.
 
 # Who needs it?
 
-Explain who needs the thing.
+Explain who needs the thing. Developers, system administrators, managers? 
 
 ---
 
 # Why do I need it?
 
-Explain why someone the thing.
+Explain why someone would need to use it.
 
 ---
 
 # Similar previous technologies
 
-In one slide, write older technologies this technology recalls, or is similar to.
+In one slide, write older technologies this technology recalls or renders obsolete.
 
 ---
 
 # Supported platforms
 
-On which platforms does it run?
+On which platforms does it run? Linux, Windows, OSX?
 
 ---
 
 # Ease of use
 
-Describe how complex is to install, use, and interface with other techs. If pre-requisites are needed say them.
+Describe how complex is to install, use, and interface with other technologies. If pre-requisites are needed write them.
 
 ---
 
-# Alternatives
+# Main Features
 
-list alternative products that address the same use case
-
----
-
-# Similarities to X (multiple slides)
-
-For each of the Alternatives, write at maximum two positive and two negative differences.
-This slide can be repeated for every alternative
+Describe how complex is to install, use, and interface with other technologies. If pre-requisites are needed write them.
 
 ---
 
 # Killer feature
 
-A great feature that only this Thing offers compared to the competition
+A great feature that only this Thing offers compared to the competition,
+or one feature that Thing does really well.
+
+---
+
+# Alternatives
+
+List alternative products that address the same use case
+
+---
+
+# Similarities to X (multiple slides)
+
+For each of the Alternatives, write at maximum three positive and three negative differences.
+This slide can be repeated for every alternative
 
 ---
 
 # Price and license
 
 
-Write the license and the pricing options of the thing.
+Write the license and the pricing options of the Thing.
 
 ---
 
-# Entity specific terms
+# Glossary
 
 Some technologies use terms that are exclusive of that technology. This slide contains a glossary
-of these terms.
+of these terms. This slide can be positioned in any place to create the appropriate context for the
+following slides.
 
 ---
 
-# Brief example (max 2 slides)
+# Brief example (max 3 slides)
 
 A real case example (e.g. configuration file, or real world scenario on how to use it)
+
+---
+
+# Links
+
+Relevant links to know more.
