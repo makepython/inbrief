@@ -10,6 +10,9 @@ Command line tool to "script" virtual machine control.
 Start, control and configure multiple virtual machines across multiple virtual
 machine "providers" (e.g. VirtualBox, VMWare, Docker)
 
+Provider: The entity providing the actual virtual machine functionality (e.g. virtualbox, docker) 
+
+
 ---
 
 # Who needs it?
@@ -54,6 +57,10 @@ OS for the virtual machines depends on the provider.
 - Allows for easy scriptability of the control and configuration of multiple machines at once.
 - Has basic provisioner, as well as interface with more flexible systems (Salt, Puppet, Chef, Ansible)
 
+
+Provisioning: automated phase that installs software for your specific use case once a machine is created.
+
+
 ---
 
 # Killer feature
@@ -66,6 +73,8 @@ OS for the virtual machines depends on the provider.
 
 - AWS?
 
+# False alternatives
+
 ---
 
 # Similarities to AWS
@@ -77,13 +86,6 @@ To be filled. Not very expert with AWS.
 # Price and license
 
 Price: Free. License: MIT. 
-
----
-
-# Glossary
-
-- Provider: What provides the actual virtual machine functionality (e.g. virtualbox, docker) 
-- Provisioning: automated phase that installs software for your specific use case once a machine is created.
 
 ---
 

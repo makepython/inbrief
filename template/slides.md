@@ -1,9 +1,10 @@
 # Thing Name
-## Slide Author
-### Slide last update date
+## Slide Initial Author - Slide update date
+## Slide Next Author Adding Changes etc. - Slide update date
 
-<!---
-Comment
+<!--
+Note:
+you can write comments using html notation.
 -->
 
 ---
@@ -38,15 +39,21 @@ On which platforms does it run? Linux, Windows, OSX?
 
 ---
 
-# Ease of use
+# Glossary (optional)
 
-Describe how complex is to install, use, and interface with other technologies. If pre-requisites are needed write them.
+Some (most) technologies use terms that are exclusive of that technology. 
+For these terms, you can either
+
+1. define the term in the slide where the term is introduced, or
+2. Use this slide to preemptively define the terms.
+
+Prefer the first option whenever feasible.
 
 ---
 
 # Main Features
 
-Describe how complex is to install, use, and interface with other technologies. If pre-requisites are needed write them.
+Describe the main features of the Thing.
 
 ---
 
@@ -57,16 +64,39 @@ or one feature that Thing does really well.
 
 ---
 
-# Alternatives
+# Drawbacks
 
-List alternative products that address the same use case
+Features that are missing, badly implemented, or for which the Thing was not designed for.
+
+---
+
+# Ease of use
+
+Describe how complex is to install, use, and interface with other technologies. If pre-requisites are needed write them.
+
+---
+
+# Alternatives 
+
+List alternative products that address the same use case.
+
+# False alternatives
+
+If relevant, list "false alternatives" e.g. things that may seem like alternatives 
+at first sight but in reality they are not. Typical reason for false alternatives:
+
+- targeting different use cases
+- different scale (e.g. addresses much larger infrastructure that the false alternative would not reach)
+- obsolete (but use discretion)
 
 ---
 
 # Similarities to X (multiple slides)
 
 For each of the Alternatives, write at maximum three positive and three negative differences.
-This slide can be repeated for every alternative
+This slide can be repeated for every alternative.
+For False alternatives, indicate in detail why they are false alternatives, for example 
+what other use cases they target.
 
 ---
 
@@ -74,14 +104,6 @@ This slide can be repeated for every alternative
 
 
 Write the license and the pricing options of the Thing.
-
----
-
-# Glossary
-
-Some technologies use terms that are exclusive of that technology. This slide contains a glossary
-of these terms. This slide can be positioned in any place to create the appropriate context for the
-following slides.
 
 ---
 
