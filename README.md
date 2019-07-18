@@ -12,5 +12,5 @@ format of the template.
 
 # Available slides
 
-[terraform](terraform)
+[terraform](https://makepython.github.io/inbrief/terraform)
 
