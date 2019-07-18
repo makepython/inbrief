@@ -12,7 +12,7 @@ format of the template.
 
 # Slide template
 
-A [template for slides is available on github](https://github.com/makepython/inbrief/template). 
+A [template for slides is available on github](https://github.com/makepython/inbrief/tree/master/template). 
 
 # Available slides
 
