@@ -12,3 +12,5 @@ format of the template.
 
 # Available slides
 
+[terraform](terraform)
+
