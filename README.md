@@ -10,7 +10,12 @@ and to the point. The slide template is provided here. Both companies and indivi
 are welcome to create the slides, but they eventually must comply with the spirit and the
 format of the template.
 
+# Slide template
+
+A [template for slides is available on github](https://github.com/makepython/inbrief/template)
+
 # Available slides
 
 [terraform](https://makepython.github.io/inbrief/terraform)
+[vagrant](https://makepython.github.io/inbrief/vagrant)
 
