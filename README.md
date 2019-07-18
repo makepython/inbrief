@@ -12,10 +12,10 @@ format of the template.
 
 # Slide template
 
-A [template for slides is available on github](https://github.com/makepython/inbrief/template)
+A [template for slides is available on github](https://github.com/makepython/inbrief/template). 
 
 # Available slides
 
-[terraform](https://makepython.github.io/inbrief/terraform)
-[vagrant](https://makepython.github.io/inbrief/vagrant)
+- [terraform](https://makepython.github.io/inbrief/terraform): setup, configure and control a network of virtual machines with a single script.
+- [vagrant](https://makepython.github.io/inbrief/vagrant): utility to quickly create and administer virtual machines, typically for development and testing.
 
