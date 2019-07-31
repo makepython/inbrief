@@ -118,7 +118,21 @@ Free. MIT license.
 
 ---
 
-# Brief example
+# Brief example: Usage
+
+```
+# Creates new project
+poetry new myproject
+# Adds click as a dependency
+poetry add click
+# Creates a shell with the proper virtualenv activated
+poetry shell
+```
+
+
+---
+
+# Brief example: pyproject.toml
 
 ```ini
 [tool.poetry]
