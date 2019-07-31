@@ -89,7 +89,6 @@ Clean, fast, well documented, one-stop solution.
 
 # Similarities to Pipenv
 
-Pipenv:
 - very opinionated
 - Poor community support
 - Slow, occasionally broken dependency resolution.
@@ -108,8 +107,8 @@ Pipenv:
 
 # False alternative "pyinstaller"
 
-  - not for package/dependency management.
-  - Targets the need to create a final executable (".exe")
+- not for package/dependency management.
+- Targets the need to create a final executable (".exe")
 
 ---
 
@@ -121,10 +120,31 @@ Free. MIT license.
 
 # Brief example (max 3 slides)
 
-A real case example (e.g. configuration file, or real world scenario on how to use it)
+```ini
+[tool.poetry]
+name = "example"
+version = "0.2.5"
+description = ""
+authors = ["Stefano Borini <stefano.borini@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+requests = "^2.22"
+
+[tool.poetry.dev-dependencies]
+
+[tool.poetry.scripts]
+example = 'example.cli:main'
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
+```
 
 ---
 
 # Links
 
 Relevant links to know more.
+- https://poetry.eustace.io/
+- https://stefanoborini.com/current-status-of-python-packaging/
