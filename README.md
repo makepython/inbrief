@@ -16,6 +16,7 @@ A [template for slides is available on github](https://github.com/makepython/inb
 
 # Available slides
 
+- [poetry](https://makepython.github.io/inbrief/poetry): Python program to manage virtual environments, package dependencies and build.
 - [terraform](https://makepython.github.io/inbrief/terraform): setup, configure and control a network of virtual machines with a single script.
 - [vagrant](https://makepython.github.io/inbrief/vagrant): utility to quickly create and administer virtual machines, typically for development and testing.
 
