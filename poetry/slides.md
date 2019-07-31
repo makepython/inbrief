@@ -81,7 +81,7 @@ Clean, fast, well documented, one-stop solution.
 - Pipenv
 - the "old way": venv, pip, distutils, setuptools, requirements.txt
 
-# False alternatives
+## False alternatives
 
 - pyinstaller
 
@@ -118,7 +118,7 @@ Free. MIT license.
 
 ---
 
-# Brief example (max 3 slides)
+# Brief example
 
 ```ini
 [tool.poetry]
