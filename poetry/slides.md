@@ -133,7 +133,13 @@ poetry shell
 
 # Brief example: pyproject.toml
 
-xx
+```
+[tool.poetry]
+name = "example"
+version = "0.2.5"
+description = ""
+authors = ["Stefano Borini <stefano.borini@gmail.com>"]
+```
 
 ---
 
