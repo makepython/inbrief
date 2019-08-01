@@ -129,7 +129,6 @@ poetry add click
 poetry shell
 ```
 
-
 ---
 
 # Brief example: pyproject.toml
