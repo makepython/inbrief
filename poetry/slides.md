@@ -131,6 +131,12 @@ poetry shell
 
 ---
 
+# Brief example: pyproject.toml
+
+xx
+
+---
+
 # Links
 
 Relevant links to know more.
