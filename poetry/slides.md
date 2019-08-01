@@ -133,7 +133,7 @@ poetry shell
 
 # Brief example: pyproject.toml
 
-```ini
+```
 [tool.poetry]
 name = "example"
 version = "0.2.5"
